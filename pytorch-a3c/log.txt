@@ -1,0 +1,4 @@
+[33mWARN: gym.spaces.Box autodetected dtype as <class 'numpy.float32'>. Please provide explicit dtype.[0m
+[33mWARN: gym.spaces.Box autodetected dtype as <class 'numpy.float32'>. Please provide explicit dtype.[0m
+[33mWARN: <class 'envs.AtariRescale42x42'> doesn't implement 'observation' method. Maybe it implements deprecated '_observation' method.[0m
+[33mWARN: gym.spaces.Box autodetected dtype as <class 'numpy.float32'>. Please provide explicit dtype.[0m
